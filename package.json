@@ -3,6 +3,11 @@
   "version": "0.1.0",
   "type": "module",
   "description": "Parent home for chain-specific blockchain services.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/red-cup-engineering/computer-systems-engineering-services-section.git",
+    "directory": "services/computer-blockchain-system-services-section"
+  },
   "files": [
     "README.md",
     "services"
