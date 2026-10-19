@@ -122,3 +122,7 @@
 	path = services/hive-engineering-services-section/services/hive-computing-service
 	url = https://github.com/red-cup-engineering/hive-computing-service.git
 	branch = main
+[submodule "base-pre-sign-policy-service"]
+	path = services/ethereum-engineering-services-section/services/base-pre-sign-policy-service
+	url = https://github.com/red-cup-engineering/base-pre-sign-policy-service.git
+	branch = main
