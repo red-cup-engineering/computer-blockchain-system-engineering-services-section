@@ -130,3 +130,7 @@
 	path = services/ethereum-engineering-services-section/services/base-chain-data-gateway
 	url = https://github.com/red-cup-engineering/base-chain-data-gateway.git
 	branch = main
+[submodule "base-btc-deleverage-execution-service"]
+	path = services/ethereum-engineering-services-section/services/base-btc-deleverage-execution-service
+	url = https://github.com/red-cup-engineering/base-btc-deleverage-execution-service.git
+	branch = main
