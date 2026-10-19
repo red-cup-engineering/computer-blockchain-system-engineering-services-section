@@ -34,3 +34,7 @@
 	path = services/ethereum-engineering-services-section
 	url = https://github.com/red-cup-engineering/ethereum-engineering-services-section.git
 	branch = main
+[submodule "cross-chain-services-section"]
+	path = services/cross-chain-services-section
+	url = https://github.com/red-cup-engineering/cross-chain-services-section.git
+	branch = main
