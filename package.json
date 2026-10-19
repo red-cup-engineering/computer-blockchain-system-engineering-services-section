@@ -8,8 +8,7 @@
     "url": "git+https://github.com/red-cup-engineering/computer-blockchain-system-services-section.git"
   },
   "files": [
-    "README.md",
-    "services"
+    "README.md"
   ],
   "keywords": [
     "blockchain"
