@@ -130,3 +130,7 @@
 	path = services/coinbase-services-section/services/coinbase-bazaar-service
 	url = https://github.com/red-cup-engineering/coinbase-bazaar-service.git
 	branch = main
+[submodule "solana-services-section"]
+	path = services/solana-services-section
+	url = https://github.com/red-cup-engineering/solana-services-section.git
+	branch = main
