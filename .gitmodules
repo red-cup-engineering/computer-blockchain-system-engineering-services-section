@@ -134,3 +134,7 @@
 	path = services/solana-services-section
 	url = https://github.com/red-cup-engineering/solana-services-section.git
 	branch = main
+[submodule "settlement-triggered-activity-publication-cell"]
+	path = services/settlement-triggered-activity-publication-cell
+	url = https://github.com/red-cup-engineering/settlement-triggered-activity-publication-cell.git
+	branch = main
