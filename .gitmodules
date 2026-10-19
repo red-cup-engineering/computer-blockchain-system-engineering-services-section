@@ -42,18 +42,6 @@
 	path = services/hive-engineering-services-section/services/hive-application-integration-services-section/services/create-hive-post-draft-service
 	url = https://github.com/red-cup-engineering/create-hive-post-draft-service.git
 	branch = main
-[submodule "erc-7677-paymaster-service"]
-	path = services/ethereum-engineering-services-section/services/account-abstraction-services-section/services/erc-7677-paymaster-service
-	url = https://github.com/red-cup-engineering/erc-7677-paymaster-service.git
-	branch = main
-[submodule "erc-4337-bundler-service"]
-	path = services/ethereum-engineering-services-section/services/account-abstraction-services-section/services/erc-4337-bundler-service
-	url = https://github.com/red-cup-engineering/erc-4337-bundler-service.git
-	branch = main
-[submodule "enterprise-account-provisioning-service"]
-	path = services/ethereum-engineering-services-section/services/account-abstraction-services-section/services/enterprise-account-provisioning-service
-	url = https://github.com/red-cup-engineering/enterprise-account-provisioning-service.git
-	branch = main
 [submodule "verify-hive-signed-message-service"]
 	path = services/hive-engineering-services-section/services/verify-hive-signed-message-service
 	url = https://github.com/red-cup-engineering/verify-hive-signed-message-service.git
@@ -133,4 +121,8 @@
 [submodule "base-btc-deleverage-execution-service"]
 	path = services/ethereum-engineering-services-section/services/base-btc-deleverage-execution-service
 	url = https://github.com/red-cup-engineering/base-btc-deleverage-execution-service.git
+	branch = main
+[submodule "account-abstraction-services-section"]
+	path = services/ethereum-engineering-services-section/services/account-abstraction-services-section
+	url = https://github.com/red-cup-engineering/account-abstraction-services-section.git
 	branch = main
