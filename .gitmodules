@@ -126,3 +126,7 @@
 	path = services/ethereum-engineering-services-section/services/account-abstraction-services-section
 	url = https://github.com/red-cup-engineering/account-abstraction-services-section.git
 	branch = main
+[submodule "coinbase-bazaar-service"]
+	path = services/coinbase-services-section/services/coinbase-bazaar-service
+	url = https://github.com/red-cup-engineering/coinbase-bazaar-service.git
+	branch = main
