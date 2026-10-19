@@ -126,3 +126,7 @@
 	path = services/ethereum-engineering-services-section/services/base-pre-sign-policy-service
 	url = https://github.com/red-cup-engineering/base-pre-sign-policy-service.git
 	branch = main
+[submodule "base-chain-data-gateway"]
+	path = services/ethereum-engineering-services-section/services/base-chain-data-gateway
+	url = https://github.com/red-cup-engineering/base-chain-data-gateway.git
+	branch = main
