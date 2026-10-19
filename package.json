@@ -5,8 +5,7 @@
   "description": "Parent home for chain-specific blockchain services.",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/red-cup-engineering/computer-systems-engineering-services-section.git",
-    "directory": "services/computer-blockchain-system-services-section"
+    "url": "git+https://github.com/red-cup-engineering/computer-blockchain-system-services-section.git"
   },
   "files": [
     "README.md",
