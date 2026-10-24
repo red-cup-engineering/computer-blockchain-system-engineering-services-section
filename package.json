@@ -1,5 +1,5 @@
 {
-  "name": "@red-cup-engineering/computer-blockchain-system-engineering-services-section",
+  "name": "@red-cup-engineering/computer-blockchain-system-services-section",
   "version": "0.1.0",
   "type": "module",
   "description": "Parent home for chain-specific blockchain services.",
