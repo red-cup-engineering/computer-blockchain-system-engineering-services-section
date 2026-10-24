@@ -4,7 +4,7 @@
 	branch = main
 [submodule "services/computer-systems-engineering-services-section/services/computer-blockchain-system-services-section/services/smart-contract-audit-services-section"]
 	path = services/smart-contract-audit-services-section
-	url = https://github.com/red-cup-engineering/smart-contract-audit-services-section.git
+	url = https://github.com/red-cup-engineering/smart-contract-audit-engineering-services-section.git
 	branch = main
 [submodule "coinbase-bazaar-service"]
 	path = services/coinbase-services-section/services/coinbase-bazaar-service
@@ -24,7 +24,7 @@
 	branch = main
 [submodule "key-management-services-section"]
 	path = services/key-management-services-section
-	url = https://github.com/red-cup-engineering/key-management-services-section.git
+	url = https://github.com/red-cup-engineering/key-management-engineering-services-section.git
 	branch = main
 [submodule "hive-engineering-services-section"]
 	path = services/hive-engineering-services-section
