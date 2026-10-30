@@ -38,3 +38,7 @@
 	path = services/cross-chain-services-section
 	url = https://github.com/red-cup-engineering/cross-chain-engineering-services-section.git
 	branch = main
+[submodule "services/blockchain-trashpanda-engineering-services-section"]
+	path = services/blockchain-trashpanda-engineering-services-section
+	url = https://github.com/red-cup-engineering/blockchain-trashpanda-engineering-services-section.git
+	branch = main
