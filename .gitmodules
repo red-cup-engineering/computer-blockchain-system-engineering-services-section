@@ -1,7 +1,3 @@
-[submodule "multi-agent-resource-sharing-host"]
-	path = apps/multi-agent-resource-sharing-host
-	url = https://github.com/red-cup-engineering/multi-agent-resource-sharing-host.git
-	branch = main
 [submodule "services/computer-systems-engineering-services-section/services/computer-blockchain-system-services-section/services/smart-contract-audit-services-section"]
 	path = services/smart-contract-audit-services-section
 	url = https://github.com/red-cup-engineering/smart-contract-audit-engineering-services-section.git
