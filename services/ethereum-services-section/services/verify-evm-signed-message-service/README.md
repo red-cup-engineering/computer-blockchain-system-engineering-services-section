@@ -1,7 +1,7 @@
 # @red-cup-engineering/verify-evm-signed-message-service
 
 Verifies an EIP-4361 Sign-In with Ethereum message signed with EIP-191
-personal_sign: parses the message, recovers the signer through the house
+personal_sign: parses the message, recovers the signer through the Group
 EVM primitives, and checks the address, the expected bindings, and the
 time window.
 

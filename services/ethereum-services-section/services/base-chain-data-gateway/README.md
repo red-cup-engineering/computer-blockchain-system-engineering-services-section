@@ -14,7 +14,7 @@ is used. The HTTP payment boundary is the official `@x402/*` SDK reached
 through `@red-cup-engineering/x402-services-section`'s `./fetch` export
 (`createExactEvmFetchPaymentBoundary`), the transport built specifically
 for a stateless fetch-handler host such as Cloudflare Workers -- the same
-protocol core the house's Express-based sellers
+protocol core the Group's Express-based sellers
 (`metered-inference-tollbooth`, `paid-ephemeris-gateway`) use, with no
 Express dependency.
 
@@ -92,7 +92,7 @@ Five-custody thread (org-layering.md, 2026-09-01):
 - engineering: **this section itself** — `src/base-reads.mjs` and `src/worker.mjs`, composed from `@red-cup-engineering/ethereum-services-section` (`public-evm-ledger`'s `jsonRpc`) and `@red-cup-engineering/x402-services-section` (`./fetch`'s `createExactEvmFetchPaymentBoundary`), both consumed as exact-pinned registry dependencies, with no hand-rolled JSON-RPC or payment-boundary code in this package.
 - operations: [capability-market-services-section](../../../../../../../../../../../operations-services-section/services/union-services-section/services/union-market-services-section/services/capability-market-services-section) — names `x402-services-section` explicitly as the priced HTTP boundary/settlement leg of the Union's `RMN demand -> ... -> x402 clearing -> ...` capability-market pipeline this gateway's sales flow through.
 - 561-group: [bare-cedar-fog-cloudflare-services-section](../../../../../../../../../../../561-group-services-section/services/561-group-computer-services-section/services/computer-machine-services-section/services/persistent-computer-machine-services-section/services/bare-cedar-fog-services-section/services/bare-cedar-fog-web-services-section/bare-cedar-fog-cloudflare-services-section) — the Cloudflare account custody this Worker deploys under (custom domain `base-chain.561.group`, Base mainnet).
-- public: [public-blockchain-services-section](../../../../../../../../../../../public-services-section/services/public-computer-services-section/services/public-blockchain-services-section) — the house's general public blockchain custody (alongside `blockchain-trashpanda-services-section`); this product's public face is external, on [402index.io](https://402index.io/) (`chain-data` category, see this section's own `402index-listing.json`), named as a debt to eventually mirror into public custody rather than invented as a full link here.
+- public: [public-blockchain-services-section](../../../../../../../../../../../public-services-section/services/public-computer-services-section/services/public-blockchain-services-section) — the Group's general public blockchain custody (alongside `blockchain-trashpanda-services-section`); this product's public face is external, on [402index.io](https://402index.io/) (`chain-data` category, see this section's own `402index-listing.json`), named as a debt to eventually mirror into public custody rather than invented as a full link here.
 
 ## Entanglement debts
 

@@ -92,7 +92,7 @@ glossary entry for the unit (`content/glossary/terms/wit.md`) goes further
 than the constitution and ties the same distinction-step to three other
 carriers at once: physically, one bit erased costs `kT ln 2` (Landauer);
 topologically, "kept bits minus erased bits is the Euler characteristic (the
-index balance `H⁰ − H¹ = χ`)"; in proof, the house standard prices
+index balance `H⁰ − H¹ = χ`)"; in proof, the Group standard prices
 `Quot.sound` as one unpriced collapsed distinction. That cross-carrier
 identification is exactly the move §8 below makes for gas specifically, and
 it is worth flagging now that it is not this note's invention — the glossary
@@ -377,7 +377,7 @@ resolve it.
 
 ## 9. What is proved, and what is this note's own argument
 
-Proved in Lean, no `sorry` in the cited files, matching the house axiom-free
+Proved in Lean, no `sorry` in the cited files, matching the Group axiom-free
 standard (verified directly against the source, not assumed from the
 citation):
 
